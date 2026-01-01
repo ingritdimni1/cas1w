@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'loshmis/vanguard',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-claude/setup-installation-ytX2k',
+        'version' => 'dev-claude/setup-installation-ytX2k',
+        'reference' => '7688e6e8ab21ac1dbca7b5a3c0e2aa02308d8a05',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -593,9 +593,9 @@
             'dev_requirement' => false,
         ),
         'loshmis/vanguard' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-claude/setup-installation-ytX2k',
+            'version' => 'dev-claude/setup-installation-ytX2k',
+            'reference' => '7688e6e8ab21ac1dbca7b5a3c0e2aa02308d8a05',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
